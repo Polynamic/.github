@@ -1,12 +1,19 @@
-## Welcome to the Polynamic Github account 👋
+## Welcome to the Polynamic Github account! 👋
 
 Here you can find all of our open source projects.
 
---
 
 ## [Polygon Javascript Library](https://polynamic.github.io/polygon)
 
+Polygon is a modern Javascript Library. 
+
+[Polygon Github Repo](https://github.com/polynamic/polygon
+
+## Polynamic Info
+
 This account is run by [Shadowility](https://github.com/shadowilitydev)
+
+
 <!--
 
 **Here are some ideas to get you started:**
