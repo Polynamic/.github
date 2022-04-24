@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to the Polynamic Github account 👋
 
+This account is run by [Shadowility](https://github.com/shadowilitydev)
 <!--
 
 **Here are some ideas to get you started:**
