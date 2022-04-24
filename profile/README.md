@@ -7,7 +7,7 @@ Here you can find all of our open source projects.
 
 Polygon is a modern Javascript Library. 
 
-[Polygon Github Repo](https://github.com/polynamic/polygon
+[Polygon Github Repo](https://github.com/polynamic/polygon)
 
 ## Polynamic Info
 
