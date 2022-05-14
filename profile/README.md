@@ -12,7 +12,7 @@ Polygon is a modern Javascript Library.
 
 [Polygon Github Repo](https://github.com/polynamic/polygon)
 
---
+---
 
 Find Polynamic on Twitter [@Polynamic](https://twitter.com/polynamic)
 
